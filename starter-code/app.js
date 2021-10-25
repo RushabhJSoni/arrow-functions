@@ -219,4 +219,4 @@ console.log(joe.scopeArrow());
 // 2. What is "this" when joe.scopeArrow() is invoked?
 // this is globally scoped and gives a return of the whole browser window.
 // 3. Explain why "this" is different when an arrow function is used.
-// Arrow functions cannot understand the contextual this
+// Arrow functions cannot understand the contextual this.
